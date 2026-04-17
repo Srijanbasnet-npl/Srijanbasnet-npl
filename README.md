@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Srijan Basnet  
 
-🎓 **BSc CSIT Student**  
+🎓 **BSC CSIT Student**  
 💻 Beginner Programmer | Learning step by step  
 🚀 Exploring **C Programming**, **HTML**, **CSS** ,and **JS**
 
