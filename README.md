@@ -48,7 +48,7 @@
 
 ## 📫 Connect With Me
 - 📧 Email: **basnetsrijan202@gmail.com**
-- 🌍 GitHub: [basnetsrijan202-eng](https://github.com/basnetsrijan202-eng)
+- 🌍 GitHub: [basnetsrijan202-eng](https://github.com/basnetsrijan202-eng) .
 
 ---
 
