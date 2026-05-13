@@ -10,7 +10,7 @@
 - 🌱 Currently learning **C (Beginner Level)**
 - 🎨 Building basic websites using **HTML & CSS & JS**
 - 📚 Improving problem-solving and coding fundamentals
-- 💪 Consistent learner, aiming to grow every day
+- 💪 Consistent learner, aiming to grow every day.
 
 ---
 
@@ -33,7 +33,7 @@
 ## 📂 What You'll Find Here
 - ✅ C programming practice programs
 - ✅ Basic logic building examples
-- ✅ Simple HTML . CSS & JS projects
+- ✅ Simple HTML . CSS & JS projects.
 - ✅ Beginner-friendly code with comments.
 
 ---
