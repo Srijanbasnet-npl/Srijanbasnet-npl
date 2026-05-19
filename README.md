@@ -31,17 +31,17 @@
 ---
 
 ## 📂 What You'll Find Here
-- ✅ C programming practice programs
-- ✅ Basic logic building examples
-- ✅ Simple HTML . CSS & JS projects
-- ✅ Beginner-friendly code with comments
+- ✅ C programming practice program.s
+- ✅ Basic logic building examples.
+- ✅ Simple HTML . CSS & JS projects.
+- ✅ Beginner-friendly code with comments.
 
 ---
 
 ## 🎯 Current Goals
 - 🔹 Master C fundamentals and be a Data engineer 
 - 🔹 Build small projects using HTML , CSS & JS
-- 🔹 Upload code regularly on GitHub
+- 🔹 Upload code regularly on GitHub.
 - 🔹 Stay consistent 💯
 
 ---
