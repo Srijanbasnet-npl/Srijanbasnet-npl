@@ -11,7 +11,6 @@
 - 🎨 Building basic websites using **HTML & CSS & JS**
 - 📚 Improving problem-solving and coding fundamentals.
 - 💪 Consistent learner, aiming to grow every day.
-- 
 
 ---
 
