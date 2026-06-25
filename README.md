@@ -32,8 +32,8 @@
 ## 📂 What You'll Find Here
 - ✅ C programming practice programs
 - ✅ Basic logic building examples
-- ✅ Simple HTML . CSS & JS projects.
-- ✅ Beginner-friendly code with comments.
+- ✅ Simple HTML . CSS & JS projects
+- ✅ Beginner-friendly code with comments
 
 ---
 
